@@ -1,0 +1,6 @@
+projectKey=OWASP___Benchmark
+serverUrl=http://localhost:9000
+serverVersion=7.0.0.36138
+dashboardUrl=http://localhost:9000/dashboard/index/OWASP___Benchmark
+ceTaskId=AWGxpFsEaPhHeX249ZOb
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AWGxpFsEaPhHeX249ZOb
